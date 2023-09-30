@@ -110,7 +110,7 @@ CashCodeSM
 
 ## License
 
-FreeBSD License - see [LICENSE.md](LICENSE.md)
+MIT License - see [LICENSE.md](LICENSE.md)
 
 ## Links
 
