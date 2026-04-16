@@ -4,10 +4,23 @@
 
 Java driver for CashCode SM bill validators, providing serial communication and event-driven bill acceptance handling via the CCNET protocol.
 
-## Dependencies
+## Installation
 
-- Java 17+
-- [JSSC](https://github.com/scream3r/java-simple-serial-connector) (Java Simple Serial Connector)
+### Maven
+
+```xml
+<dependency>
+    <groupId>io.github.dalerazimov</groupId>
+    <artifactId>cashcode-java</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+### Gradle
+
+```groovy
+implementation 'io.github.dalerazimov:cashcode-java:1.0.0'
+```
 
 ## Quick Start
 
