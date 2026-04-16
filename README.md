@@ -1,5 +1,7 @@
 # CashCode Java Driver
 
+![CI](https://github.com/dalerazimov/CashCodeJava/actions/workflows/ci.yml/badge.svg)
+
 Java driver for CashCode SM bill validators, providing serial communication and event-driven bill acceptance handling via the CCNET protocol.
 
 ## Dependencies
